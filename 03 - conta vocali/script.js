@@ -32,23 +32,7 @@ let vowelsNumber = howManyvowels ( word)
 
 
 //Risultato atteso se si passa 'javascript': 3 (a, a, i)
-
-
-    /*/ Verifica se il carattere è una vocale
-    if (
-      carattere === "a" ||
-      carattere === "e" ||
-      carattere === "i" ||
-      carattere === "o" ||
-      carattere === "u"
-    ) {
-      vocali++;
-    } else {
-      consonanti++;
-    }
-  }*/
-
-  console.log(vowels)
+   console.log(vowels)
 
 
 
